@@ -1,1 +1,12 @@
 amor pruebitaaaa prueba
+
+Haga un fork del siguiente repositorio: https://github.com/petkivim/nodejs-rest-api-example
+
+Con base al fork haga lo siguiente:
+
+Clone el repo de manera local.
+Realice cambios y cree 3 commits (al menos). Dentro de sus cambios agregue un nuevo método get y un nuevo método post.
+Analice el Dockerfile existente y agregue comentarios detallados explicando qué hace cada una de las líneas allí definidas y para qué se usan.
+Suba dichos cambios a su repo.
+Agregue el link de su repo como respuesta a esta pregunta.
+NOTA: Agregue a mi usuario como colaborador: jilopez-udem
